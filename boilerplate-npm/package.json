@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Nicholas Mukuha",
+	"author": "Nicholas Mukuha",
+  "description": "A solution to my NPM challenges on freecode camp",
+  "keywords":["simple", "descriptive", "on point", "freecodecamp"],
+  "license": "MIT",
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
